@@ -1,0 +1,22 @@
+table{
+    position: absolute;
+    left: 500px;
+    border-spacing: 2px;
+    border: 2px solid darkcyan;
+  
+ width: 500px;
+}
+td{
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    height: 50px;
+    vertical-align: top;
+    border-bottom: 2px solid #ccc;
+
+
+}
+th{
+    background-color: darkcyan;
+}
